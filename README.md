@@ -30,7 +30,7 @@ We are having an issues where patients' addresses are being duplicated in addres
 
 ### Usage
 
-1. Set enviornment variables for PHREESIA_USERNAME and PHREESIA_PASSWORD. These are called in the script but could easily be motified to accept user input. 
+1. Set enviornment variables for PHREESIA_USERNAME and PHREESIA_PASSWORD. These are called in the script but could easily be modified to accept user input. 
   ``` python
   PHREESIA_USERNAME = os.environ.get('PHREESIA_USERNAME')
   PHREESIA_PASSWORD = os.environ.get('PHREESIA_PASSWORD')
